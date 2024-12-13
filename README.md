@@ -1,2 +1,4 @@
 # finance
-A clone of Finance SaaS Platform by Code With Antonio
+A clone of Finance SaaS Platform using Bun
+
+> bun run dev
